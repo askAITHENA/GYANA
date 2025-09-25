@@ -369,7 +369,7 @@ Coming soon!
 - Volume discounts
 - Dedicated account manager
 
-Contact sales@gyana.ai for Enterprise pricing
+Contact founder@askaithena.com for Enterprise pricing
 
 ## 📞 Contact
 
