@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.askAITHENA/GYANA",
+  "description": "Universal AI MCP server for OpenAI, Anthropic, and Gemini via WebSocket",
+  "status": "active",
+  "repository": {
+    "url": "https://github.com/askAITHENA/GYANA",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registryType": "remote",
+      "identifier": "wss://api.askaithena.com/mcpserver/ai",
+      "version": "1.0.0",
+      "transport": {
+        "type": "websocket",
+        "url": "wss://api.askaithena.com/mcpserver/ai"
+      }
+    }
+  ]
+}
