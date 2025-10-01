@@ -1,4 +1,4 @@
-# Gyana Universal AI MCP Server
+# gyana-universal-ai-mcpserver
 
 A unified WebSocket-based MCP (Model Context Protocol) server that enables access to multiple AI providers (OpenAI, Anthropic, Gemini) through a single endpoint with secure access, usage tracking, and standardized request/response formatting.
 
