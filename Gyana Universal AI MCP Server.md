@@ -374,8 +374,8 @@ Contact founder@askaithena.com for Enterprise pricing
 ## 📞 Contact
 
 - **Website:** https://www.askaithena.com/univeralaimcpserver
-- **Support:** founder@askaithena.com
-- **Sales:** founder@askaithena.com
+- **Support:** support@askaithena.com
+- **Sales:** sales@askaithena.com
 
 ## 📚 Resources
 
